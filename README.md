@@ -46,6 +46,17 @@ Source Code -> [Get Source File](/cms.cpp) </br>
 
 ## Application UI</br>
 <p align="center">
-  <img src="/img/Screenshot (1).png" width="350">
+  <img src="/img/Screenshot (1).png">
+  <img src="/img/Screenshot (2).png">
+  <img src="/img/Screenshot (3).png">
+  <img src="/img/Screenshot (4).png">
+  <img src="/img/Screenshot (5).png">
+  <img src="/img/Screenshot (6).png">
+  <img src="/img/Screenshot (7).png">
+  <img src="/img/Screenshot (8).png">
+  <img src="/img/Screenshot (9).png">
+  <img src="/img/Screenshot (10).png">
+  <img src="/img/Screenshot (11).png">
+  <img src="/img/Screenshot (12).png">
 </p>
 
