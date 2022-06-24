@@ -46,27 +46,16 @@ Source Code -> [Get Source File](/cms.cpp) </br>
 
 ## Application UI and Screenshots</br>
 <p align="center">
-  <img src="/img/Screenshot (1).png">
-  <img src="/img/Screenshot (2).png">
-  <img src="/img/Screenshot (3).png">
-  <img src="/img/Screenshot (4).png">
-  <img src="/img/Screenshot (5).png">
-  <img src="/img/Screenshot (6).png">
-  <img src="/img/Screenshot (7).png">
-  <img src="/img/Screenshot (8).png">
-  <img src="/img/Screenshot (9).png">
-  <img src="/img/Screenshot (10).png">
-  <img src="/img/Screenshot (11).png">
-  <img src="/img/Screenshot (12).png">
-  <img src="/img/Screenshot (13).png">
-  <img src="/img/Screenshot (14).png">
-  <img src="/img/Screenshot (15).png">
-  <img src="/img/Screenshot (16).png">
-  <img src="/img/Screenshot (17).png">
-  <img src="/img/Screenshot (18).png">
-  <img src="/img/Screenshot (19).png">
-  <img src="/img/Screenshot (20).png">
-  <img src="/img/Screenshot (21).png">
-  
+  <img src="/Screenshots/Screenshot (1).png">
+  <img src="/Screenshots/Screenshot (2).png">
+  <img src="/Screenshots/Screenshot (3).png">
+  <img src="/Screenshots/Screenshot (4).png">
+  <img src="/Screenshots/Screenshot (5).png">
+  <img src="/Screenshots/Screenshot (6).png">
+  <img src="/Screenshots/Screenshot (7).png">
+  <img src="/Screenshots/Screenshot (8).png">
+  <img src="/Screenshots/Screenshot (9).png">
+  <img src="/Screenshots/Screenshot (10).png">
+  <img src="/Screenshots/Screenshot (11).png">
 </p>
 
