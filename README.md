@@ -46,9 +46,9 @@ Source Code -> [Get Source File](/cms.cpp) </br>
 
 ## Application UI and Screenshots</br>
 <p align="center">
-  </br><h2>#1</h2>
+  </br><h2>#1 Application Starts - Welcome Page</h2>
   <img src="/Screenshots/Screenshot (1).png">
-  </br><h2>#2</h2>
+  </br><h2>#2 </h2>
   <img src="/Screenshots/Screenshot (2).png">
   </br><h2>#3</h2>
   <img src="/Screenshots/Screenshot (3).png">
