@@ -44,6 +44,8 @@ Much Overall Revenue They Have Generated </br>
 Windows Build EXE -> [Download](https://github.com/mohitdhami/Canteen-Management-System/raw/main/Canteen%20Managment%20System.exe) </br>
 Source Code -> [Get Source File](/cms.cpp) </br>
 
-## Application Appearances and Screenshots </br>
-![Screenshot](img/Screenshot (1).png)</br>
+## Application UI</br>
+<p align="center">
+  <img src="/img/Screenshot (1).png" width="350">
+</p>
 
