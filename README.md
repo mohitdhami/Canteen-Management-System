@@ -46,27 +46,27 @@ Source Code -> [Get Source File](/cms.cpp) </br>
 
 ## Application UI and Screenshots</br>
 <p align="center">
-  </br><h2>#1 Application Starts - Welcome Page</h2>
+  </br><h2>#1 Application Starts ( Welcome Page )</h2>
   <img src="/Screenshots/Screenshot (1).png">
-  </br><h2>#2 </h2>
+  </br><h2>#2 User Selection Page (Customer / Admin)</h2>
   <img src="/Screenshots/Screenshot (2).png">
-  </br><h2>#3</h2>
+  </br><h2>#3 Select Items Currently available in Canteen</h2>
   <img src="/Screenshots/Screenshot (3).png">
-  </br><h2>#4</h2>
+  </br><h2>#4 Fill Your Details Before Checkout</h2>
   <img src="/Screenshots/Screenshot (4).png">
-  </br><h2>#5</h2>
+  </br><h2>#5 Checkout and Apply Coupons</h2>
   <img src="/Screenshots/Screenshot (5).png">
-  </br><h2>#6</h2>
+  </br><h2>#6 Payment and Invoice</h2>
   <img src="/Screenshots/Screenshot (6).png">
-  </br><h2>#7</h2>
+  </br><h2>#7 Verification for user: admin</h2>
   <img src="/Screenshots/Screenshot (7).png">
-  </br><h2>#8</h2>
+  </br><h2>#8 Admin Mode Features</h2>
   <img src="/Screenshots/Screenshot (8).png">
-  </br><h2>#9</h2>
+  </br><h2>#9 Edit Food Menu Page</h2>
   <img src="/Screenshots/Screenshot (9).png">
-  </br><h2>#10</h2>
+  </br><h2>#10 Sample: Add New Item at Specific Positon</h2>
   <img src="/Screenshots/Screenshot (10).png">
-  </br><h2>#11</h2>
+  </br><h2>#11 Track Overall Sales</h2>
   <img src="/Screenshots/Screenshot (11).png">
 </p>
 
