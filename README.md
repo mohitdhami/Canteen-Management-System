@@ -45,5 +45,5 @@ Windows Build EXE -> [Download](https://github.com/mohitdhami/Canteen-Management
 Source Code -> [Get Source File](/cms.cpp) </br>
 
 ## Application Appearances and Screenshots </br>
-![Screenshot](img/Screenshot (1).png</br>
+![Screenshot](img/Screenshot (1).png)</br>
 
