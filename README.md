@@ -45,7 +45,7 @@ Windows Build EXE -> [Download](https://github.com/mohitdhami/Canteen-Management
 Source Code -> [Get Source File](/cms.cpp) </br>
 
 ## Application UI</br>
-<p align="center">
+<p align="left">
   <img src="/img/Screenshot (1).png" width = "600">
   <img src="/img/Screenshot (2).png" width = "600">
   <img src="/img/Screenshot (3).png" width = "600">
