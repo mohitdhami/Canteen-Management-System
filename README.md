@@ -1,5 +1,5 @@
 ﻿# Canteen-Management-System
-###This Application allows customers to buy items from the canteen and provides Management tools for the owner.</br>
+## <i> This Application allows customers to buy items from the canteen and provides Management tools for the owner. </i></br>
 
 ## Customers Section
 ### Inside Customers Page we allow Customers to buy Items from a Given List of Items by Entering its Serial No and Quantity.
