@@ -1,8 +1,7 @@
 ﻿# Canteen-Management-System
-The Application Startups with Simple Welcome Page Followed by User Selection Page </br>
-( Customers Page , Admin Page )
+This Application allows customers to buy items from the canteen and provides Management tools for the owner.</br>
 
-## Customers Page
+## Customers Section
 Inside Customers Page we allow Customers to buy 
 Items from a Given List of Items by Entering its 
 Serial No and Quantity.
@@ -20,7 +19,7 @@ Name at the Top Followed by Time-of-Purchase
 And All the Items Bought Below in The Tabular 
 Format with The Amount to Be Paid.
 
-### Admin Page
+### Admin Section
 Before Entering into The Admin Page, User has to 
 Complete an Admin Verification Step, which is 
 simply Step of Entering Password to Verify 
