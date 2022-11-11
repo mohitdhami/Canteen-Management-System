@@ -1,4 +1,4 @@
-﻿# Canteen-Management-System
+# Canteen-Management-System
 ## <i> This Application allows customers to buy items from the canteen and provides Management tools for the owner. </i></br>
 
 ## Customers Section
