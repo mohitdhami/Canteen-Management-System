@@ -1,5 +1,5 @@
 # Canteen Management System</br>
-## <i> This Application allows customers to buy items from the canteen and provides Management tools for the owner. </i></br>
+## This Application allows customers to buy items from the canteen and provides Management tools for the owner.</br>
 
 ## Customers Section
 ### Inside Customers Page we allow Customers to buy Items from a Given List of Items by Entering its Serial No and Quantity.
@@ -11,13 +11,13 @@
 ## Admin Section
 ### Before Entering into The Admin Page, User has to Complete an Admin Verification Step, which is simply Step of Entering Password to Verify Whether Current User is a Valid Admin or not. With Successful Verification, we allow User to Access Admin Page Where We Provide Two Option to the Admin :
 
-#### I. Customize Food Menu
+### I. Customize Food Menu
 1. Add New Item
 ( Exact Position, Beginning, Bottom)
 2. Delete Item
 3. Replace Item
 
-#### II. Check All the Sales he Made
+### II. Check All the Sales he Made
 In This Section the Admin of The Canteen Can 
 Check All the Sales his Canteen Made and How 
 Much Overall Revenue They Have Generated </br>
