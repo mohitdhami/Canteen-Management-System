@@ -1,15 +1,15 @@
 # Canteen Management System
-### Canteen Management System is  a CLI-based Application which allows customers to buy items from the canteen and provides Management tools for the owner. 
+### Canteen Management System is a CLI-based application built using C++ that allows customers to purchase items from the canteen and provides management tools for the owner. The application utilizes a local database to store information.
 
 ## Customers Section
- Inside Customers Page we allow Customers to buy Items from a Given List of Items by Entering its Serial No and Quantity.
-
-After Buying all Items the Customers has To Enter His Name into the System and Then We Send Him to Checkout Page Where He can Summarize his Buy List and we also give him Option to Apply a Coupon Code Which can give him 10-50 % Discount on his Total Amount.
-
-After this Section We Come Finally to The Invoice Generation Page in which User can Clearly see His Name at the Top Followed by Time-of-Purchase And All the Items Bought Below in The Tabular Format with The Amount to Be Paid.
+ 
+* Customers can purchase items from a pre-defined list of items by entering their serial number and quantity.  
+*  After selecting all of the desired items, customers are prompted to enter their name into the system. 
+* They are then directed to the checkout page, where they can review their purchase list and apply a coupon code for a 10-50% discount on their total amount.
+* Finally, customers are taken to the invoice generation page, where they can clearly see their name, the time of purchase, and a tabular format of all items purchased with the final amount to be paid.
 
 ## Admin Section
- Before Entering into The Admin Page, User has to Complete an Admin Verification Step, which is simply Step of Entering Password to Verify Whether Current User is a Valid Admin or not. With Successful Verification, we allow User to Access Admin Page Where We Provide Two Option to the Admin :
+ Before accessing the admin page, users must complete a verification step by entering a password to confirm that they are a valid admin. Once verified, the admin has access to two options:
 
 ### I. Customize Food Menu
 1. Add New Item
@@ -18,14 +18,18 @@ After this Section We Come Finally to The Invoice Generation Page in which User 
 3. Replace Item
 
 ### II. Check All the Sales he Made
-In This Section the Admin of The Canteen Can 
-Check All the Sales his Canteen Made and How 
-Much Overall Revenue They Have Generated </br>
+The admin can view all sales made by the canteen and the overall revenue generated.</br>
 
 ## Source Code and Downloads </br>
 Windows Build EXE -> [Download](https://github.com/mohitdhami/Canteen-Management-System/raw/main/Canteen%20Managment%20System.exe) </br>
 Source Code -> [Get Source File](/cms.cpp) </br>
 
+## Note
+* This application was built using C++, so make sure you have a C++ compiler installed on your system before recompiling and running the app.
+* This application utilizes a local database (Text-based) to store information, so make sure you have the required dependencies installed on your system.
+* This application is a prototype and there may be bugs. Feel free to open an issue or make a pull request to fix them.
+## Conclusion
+Canteen Management System is a simple and easy to use application that helps customers to purchase items and admin to manage the canteen sales and revenue. Try it out and let us know what you think.
 ## Application UI and Screenshots</br>
 <p align="center">
   <h2>#1 Application Starts ( Welcome Page )</h2>
